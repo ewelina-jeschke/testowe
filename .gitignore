@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+configs
 config.txt
 haslo
 __pycache__/
